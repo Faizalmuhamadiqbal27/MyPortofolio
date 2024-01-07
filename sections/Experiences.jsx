@@ -67,7 +67,7 @@ function Experiences() {
               variants={textVariants(1.2)}
               className={`${theme === "light" ? "text-black" : "text-white"} font-normal lg:max-w-[750px] md:max-w-[650px] md:text-[1em] text-[0.9em] lg:text-end text-center`}
             >
-              There are some skills that i've learning and experienced below
+              There are some skills that i have learning and experienced below
             </motion.p>
           </motion.div>
         </motion.div>
@@ -84,7 +84,7 @@ function Experiences() {
               variants={textVariants(1.2)}
               className={`${theme === "light" ? "text-black" : "text-white"} font-normal lg:max-w-[750px] md:max-w-[650px] md:text-[1em] text-[0.9em] lg:text-start text-center`}
             >
-              There are some formal education & awards that i've reached below
+              There are some formal education & awards that i have reached below
             </motion.p>
           </div>
 
